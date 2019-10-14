@@ -11,9 +11,9 @@ To add a WatchFace to your Mi Band 4, follow the steps below:
 
 1. Download the .bin file
 
-English: https://github.com/henriquemattosesilva/WFdoHenrique/blob/master/WFdoHenrique_EN.bin
+  English: https://github.com/henriquemattosesilva/WFdoHenrique/blob/master/WFdoHenrique_EN.bin
 
-Portuguese: https://github.com/henriquemattosesilva/WFdoHenrique/blob/master/WFdoHenrique_BR.bin
+  Portuguese: https://github.com/henriquemattosesilva/WFdoHenrique/blob/master/WFdoHenrique_BR.bin
 
 2. Download the MiBand4 app (PlayStore)
 3. Click on menu
