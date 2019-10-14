@@ -7,9 +7,7 @@ I made this WatchFace from a template. I edited the .json file and created the c
 # How to add this WatchFace
 To add a WatchFace to your Mi Band 4, follow the steps below:
 
-1. Download the .bin file 
-  EN: https://github.com/henriquemattosesilva/WFdoHenrique/blob/master/WFdoHenrique_EN.bin
-  BR: https://github.com/henriquemattosesilva/WFdoHenrique/blob/master/WFdoHenrique_BR.bin)
+1. Download the .bin file (English: https://github.com/henriquemattosesilva/WFdoHenrique/blob/master/WFdoHenrique_EN.bin or Portuguese: https://github.com/henriquemattosesilva/WFdoHenrique/blob/master/WFdoHenrique_BR.bin)
 2. Download the MiBand4 app (PlayStore)
 3. Click on menu
 4. Add WatchFace to MiFit
